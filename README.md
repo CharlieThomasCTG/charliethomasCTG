@@ -1,8 +1,3 @@
-## Hi there 👋
-
-
-</p>
-
 ![logo](https://github.com/charliethomasct82/charliethomasct82/assets/93368865/72fcd82d-f3a8-43c8-a97b-89ed8a808008)
 <h1 align="center">Hi 👋, I'm Charlie Thomas</h1>
 <h3 align="center">A data analysis and machine learning enthusiast</h3>
@@ -11,22 +6,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
-### 🔭 I’m currently working on [End to End Kidney Classification Machine learning Project](https://github.com/charliethomasct82/Kidney_disease_classification_deep_learning_project)
+##### 🔭 I’m currently working on [End to End Kidney Classification Machine learning Project](https://github.com/charliethomasct82/Kidney_disease_classification_deep_learning_project)
 
-### 🌱 I’m currently improving **PowerBI, Python, SQL and MLOPs**
+##### 🌱 I’m currently improving my **PowerBI, Python, SQL and MLOPs** Skills.
 
-### 👨‍💻 All of my projects are available at [https://github.com/charliethomasct82?tab=repositories](https://github.com/charliethomasct82?tab=repositories)
+##### 👨‍💻 All of my projects are available at [https://github.com/charliethomasct82?tab=repositories](https://github.com/charliethomasct82?tab=repositories)
 
-### 📝 I regularly write articles on [https://medium.com/@charliethomasctg](https://medium.com/@charliethomasctg)
+##### 📝 I regularly write articles on [https://medium.com/@charliethomasctg](https://medium.com/@charliethomasctg)
 
-### 📫 How to reach me **charliethomasctg@gmail.com**
+##### 📫 How to reach me **charliethomasctg@gmail.com**
 
-### 📄 Know about my experiences [https://docs.google.com/document/d/1GA6CoSq16tBKa-af35ky1mx00IqaInzufVWsj9hTuzs/edit?usp=sharing](https://docs.google.com/document/d/1GA6CoSq16tBKa-af35ky1mx00IqaInzufVWsj9hTuzs/edit?usp=sharing)
+##### 📄 Know about my experiences [https://docs.google.com/document/d/1GA6CoSq16tBKa-af35ky1mx00IqaInzufVWsj9hTuzs/edit?usp=sharing](https://docs.google.com/document/d/1GA6CoSq16tBKa-af35ky1mx00IqaInzufVWsj9hTuzs/edit?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/charliethomas20121999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/charliethomas20121999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+
+<a href="https://charliethomasct82.github.io/Website/" target="blank"><img align="center" src="https://github.com/charliethomasct82/charliethomasct82/assets/93368865/f81e2b69-bbde-4167-a725-a4b09600b9ce" height="30" width="40" /></a>
 
  
 
