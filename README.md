@@ -1,4 +1,5 @@
-![logo](https://github.com/charliethomasct82/charliethomasct82/assets/93368865/72fcd82d-f3a8-43c8-a97b-89ed8a808008)
+<img src="https://github.com/charliethomasct82/charliethomasct82/assets/93368865/72fcd82d-f3a8-43c8-a97b-89ed8a808008" alt="logo" width="1000" height="400">
+
 <h1 align="center">Hi 👋, I'm Charlie Thomas</h1>
 <h3 align="center">A data analysis and machine learning enthusiast</h3>
 
@@ -21,9 +22,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://charliethomasct82.github.io/Website/" target="blank"><img align="center" src="https://github.com/charliethomasct82/charliethomasct82/assets/93368865/f81e2b69-bbde-4167-a725-a4b09600b9ce" height="30" width="40" /></a>
+ 
 <a href="https://www.linkedin.com/in/charliethomas20121999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 
-<a href="https://charliethomasct82.github.io/Website/" target="blank"><img align="center" src="https://github.com/charliethomasct82/charliethomasct82/assets/93368865/f81e2b69-bbde-4167-a725-a4b09600b9ce" height="30" width="40" /></a>
+
 
  
 
