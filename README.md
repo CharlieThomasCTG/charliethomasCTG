@@ -7,7 +7,7 @@
 
 
 
-##### 🔭 I’m currently working on [End to End Kidney Classification Machine learning Project](https://github.com/charliethomasct82/Kidney_disease_classification_deep_learning_project)
+##### 🔭 I’m currently working on [End to End Kidney Disease Classification Machine learning Project](https://github.com/charliethomasct82/Kidney_disease_classification_deep_learning_project)
 
 ##### 🌱 I’m currently improving my **PowerBI, Python, SQL and MLOPs** Skills.
 
