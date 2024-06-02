@@ -1,4 +1,4 @@
-<img src="https://github.com/charliethomasct82/charliethomasct82/blob/main/GithubGif.gif" alt="logo" width="1000" height="400">
+<img src="https://github.com/CharlieThomasCTG/charliethomasCTG/blob/main/ProjectPresentation.gif" alt="logo" width="1000" height="400">
 
 <h1 align="center">Hi 👋, I'm Charlie Thomas</h1>
 <h3 align="center">A data analysis and machine learning enthusiast</h3>
