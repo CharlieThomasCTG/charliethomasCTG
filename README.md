@@ -17,7 +17,7 @@
 
 ##### 📫 How to reach me **charliethomasctg@gmail.com**
 
-##### 📄 Know about my experiences [https://docs.google.com/document/d/1GA6CoSq16tBKa-af35ky1mx00IqaInzufVWsj9hTuzs/edit?usp=sharing](https://docs.google.com/document/d/1GA6CoSq16tBKa-af35ky1mx00IqaInzufVWsj9hTuzs/edit?usp=sharing)
+##### 📄 Know about my experiences [CharlieThomas : CV](https://docs.google.com/document/d/1xeI-EGh0dkiQwvRycohMLtvs4sp1TX1G/edit?usp=sharing&ouid=116877927878788871150&rtpof=true&sd=true)
 
 
 <h3 align="left">Connect with me:</h3>
