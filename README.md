@@ -11,7 +11,7 @@
 
 ##### 🌱 I’m currently improving my **PowerBI, Python, SQL and MLOPs** Skills.
 
-##### 👨‍💻 All of my projects are available at [GitHub Repository](https://github.com/charliethomasct82?tab=repositories)
+##### 👨‍💻 All of my projects are available at [GitHub Repository](https://github.com/CharlieThomasCTG?tab=repositories)
 
 ##### 📝 I regularly write articles on [https://medium.com/@charliethomasctg](https://medium.com/@charliethomasctg)
 
